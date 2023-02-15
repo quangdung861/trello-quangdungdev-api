@@ -1,0 +1,29 @@
+{
+  "name": "trello-quangdungdev-api",
+  "version": "1.0.0",
+  "description": "APIs for trello clone app.",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangdung861/trello-quangdungdev-api.git"
+  },
+  "keywords": [],
+  "author": "quangdungdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quangdung861/trello-quangdungdev-api/issues"
+  },
+  "homepage": "https://github.com/quangdung861/trello-quangdungdev-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.34.0"
+  }
+}
